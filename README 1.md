@@ -1,4 +1,3 @@
-```markdown
 # Elysium — The Eternal City
 
 **Lobby World · Neutral Ground · All races permitted**
@@ -180,4 +179,3 @@ This is a public ceremonial space — events, declarations of war, and celebrati
 - Make it too clean or too symmetrical — this is a real city, not a showroom.
 - Let one race's aesthetic dominate — the mixing is the point.
 - Make it flat — vary building heights, add rooftop details, upper-floor walkways.
-```
