@@ -142,6 +142,18 @@ This is a public ceremonial space — events, declarations of war, and celebrati
 > It should feel slightly formal and slightly melancholy — the weight of five ancient agreements in one place.
 
 ---
+# Color palette
+| Palette           | RGB             | Hex         |
+| ----------------- | --------------- | ----------- |
+| Aged Stone     | `212, 197, 169` | **#D4C5A9** |
+| Worn Cobble    | `138, 123, 107` | **#8A7B6B** |
+| Warm Lantern   | `196, 146, 58`  | **#C4923A** |
+| Sylvari Green  | `92, 122, 78`   | **#5C7A4E** |
+| Umbrath Violet | `122, 107, 138` | **#7A6B8A** |
+| Ironborn Grey  | `107, 128, 150` | **#6B8096** |
+| Aethyn Gold     | `232, 200, 74`  | **#E8C84A** |
+
+---
 
 # Visual References (Style Direction)
 
