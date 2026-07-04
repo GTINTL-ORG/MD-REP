@@ -1,6 +1,6 @@
 # Elysium — The Eternal City
 
-**Lobby World · Neutral Ground · All races permitted**
+**Spawn World · Neutral Ground · All races permitted**
 
 The one place in all of Aethermoor where every race walks the same streets and every blade stays sheathed. Elysium is ancient, cosmopolitan, layered, and alive. It is the first thing every player sees — it must feel like stepping into a world worth staying in.
 
